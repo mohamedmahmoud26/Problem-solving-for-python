@@ -1,2 +1,2 @@
 #Problem Solving For Python
-Write a function that merges two sorted lists into a single sorted list.
+You'll find solutions to 10 Python problems
