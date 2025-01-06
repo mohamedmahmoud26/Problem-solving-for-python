@@ -1,2 +1,2 @@
-# Python-Porject
-Porjct of Python for DEPI
+#Problem Solving For Python
+
